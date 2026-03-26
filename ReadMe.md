@@ -8,4 +8,12 @@ More information - https://ra0sms.com/cat-cw-ptt-audio-interface/
 
 ------
 
+![Example](pics/1.jpg)
+
+![Example](pics/2.jpg)
+
+![Example](pics/3.jpg)
+
+------
+
 ![Schematic](pics/cw_ptt_cat_interface.png)
